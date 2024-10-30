@@ -1,0 +1,14 @@
+C:\Users\hakan\OneDrive\Masaüstü\Not_Kayit\English_Word\English_Word\bin\Debug\English_Word.exe.config
+C:\Users\hakan\OneDrive\Masaüstü\Not_Kayit\English_Word\English_Word\bin\Debug\English_Word.exe
+C:\Users\hakan\OneDrive\Masaüstü\Not_Kayit\English_Word\English_Word\bin\Debug\English_Word.pdb
+C:\Users\hakan\OneDrive\Masaüstü\Not_Kayit\English_Word\English_Word\obj\Debug\English_Word.csproj.AssemblyReference.cache
+C:\Users\hakan\OneDrive\Masaüstü\Not_Kayit\English_Word\English_Word\obj\Debug\English_Word.Form1.resources
+C:\Users\hakan\OneDrive\Masaüstü\Not_Kayit\English_Word\English_Word\obj\Debug\English_Word.FormGiris.resources
+C:\Users\hakan\OneDrive\Masaüstü\Not_Kayit\English_Word\English_Word\obj\Debug\English_Word.Properties.Resources.resources
+C:\Users\hakan\OneDrive\Masaüstü\Not_Kayit\English_Word\English_Word\obj\Debug\English_Word.csproj.GenerateResource.cache
+C:\Users\hakan\OneDrive\Masaüstü\Not_Kayit\English_Word\English_Word\obj\Debug\English_Word.csproj.CoreCompileInputs.cache
+C:\Users\hakan\OneDrive\Masaüstü\Not_Kayit\English_Word\English_Word\obj\Debug\English_Word.exe
+C:\Users\hakan\OneDrive\Masaüstü\Not_Kayit\English_Word\English_Word\obj\Debug\English_Word.pdb
+C:\Users\hakan\OneDrive\Masaüstü\Not_Kayit\English_Word\English_Word\obj\Debug\English_Word.Kelimeler.resources
+C:\Users\hakan\OneDrive\Masaüstü\Not_Kayit\English_Word\English_Word\obj\Debug\English_Word.yeniKelime.resources
+C:\Users\hakan\OneDrive\Masaüstü\Not_Kayit\English_Word\English_Word\obj\Debug\English_Word.Form4.resources
